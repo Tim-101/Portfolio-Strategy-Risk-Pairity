@@ -23,7 +23,7 @@ From my experiments, I found no significant differences between these covariance
 since I personally quite love the idea of exponential smoothing to create better estimation of the stock covariance matrix.
 
 Lastly, I backtested the all portfolio models. Overall, for the selected set of shares, I found that equally weighted is just as good or even better compared to other
-techniques. This seems to confirm that basic risk pairity models do not work for Australian stock. You can find the article here: https://www.schroders.com/en/au/advisers/insights/white-papers/risk-parity---no-free-lunch1/
+techniques. This seems to confirm that basic risk pairity model does not work for Australian shares. You can find the article writen by Schroders regarding risk pairity for Australian stock here: <a href="https://www.schroders.com/en/au/advisers/insights/white-papers/risk-parity---no-free-lunch1/"> Risk Pairity - No Free Lunch</a>
 
 Please note that I'm in no way an expert in finance.
 Hence, this result should be taken with a grain of salt.
