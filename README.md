@@ -1,4 +1,4 @@
-# Portfolio-Strategy-Risk-Pairity - (Still Work In Progress)
+# Portfolio-Strategy-Risk-Pairity
 
 This project used MLFinLab to optimise portfolio using Hierarchical Risk Pairity (HRP) and Hierarchical Equal Risk Contribution (HERC) models.
 Both models used agglomerative clustering algorithm to cluster different shares based on their price or returns. The main difference between HERC and HRP is that
