@@ -4,7 +4,7 @@ This project used MLFinLab to optimise portfolio using Hierarchical Risk Pairity
 Both models used agglomerative clustering algorithm to cluster different shares based on their price or returns. The main difference between HERC and HRP is that
 HERC allocate assets equally in each cluster based on the cluster risk contribution, while HRP is more like a vanilla risk pairity model.
 
-Two techniques were used as our benchmark. Risk pairity built using both Numpy and Pandas and equally weighted strategies.
+Two techniques were used as our benchmark. Vanilla Risk pairity and equally weighted strategies.
 
 Three different covariance measures were tested as part of this project:
 
